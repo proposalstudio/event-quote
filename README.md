@@ -15,14 +15,14 @@ Once connected, your assistant can:
 - Quote a job or an event with a link you send to your customer. Each quote has its own number, like Q-0001, and the date you made it
 - Give a quote a discount: a percent or a dollar amount off your items, shown before tax
 - Make an invoice (Pro) from a quote, or in one step from just the client and items (it saves the quote too): the full amount, a deposit, or what is left. Your own payment instructions are printed on it
-- Find your earlier quotes (by client, date or quote number) and invoices, see which invoices are paid, and mark one paid or unpaid when the money comes in, after your clear yes
+- Find your earlier quotes (by client, date or quote number) and invoices, see what is paid and what is still owed, and record a payment (all or part, like a 50% deposit) when the money comes in, after your clear yes
 - Turn a quote, price sheet or invoice link off and back on, after your clear yes
 
 Your name is on top. Pick a look: 25 in all. 4 are free (Card Stock, Grid Signal, Workbench, Editorial Olive) and 21 come with Pro. The look is for your whole account, so changing it also changes links you already sent. You can also pick a header style (4, all free) and a title word (Quote, Proposal, Estimate, your own word, or none). With Pro, you can pick a font pair too.
 
 A quote stays with its client. Your assistant can fix a typo in the name. A different person gets a new quote, so the first client's link keeps showing their own quote.
 
-It never sends or charges anything, and it never deletes your quotes, price sheets, invoices or account. You send the link. It can mark an invoice paid or unpaid, turn a quote, price sheet or invoice link off and on, and take items off your price list, but only after your clear yes. Deleting a quote, price sheet, invoice or your account is done by you on your signed-in account page. No card payments happen in Event Quote.
+It never sends or charges anything, and it never deletes your quotes, price sheets, invoices or account. You send the link. It can record or remove payments on an invoice, turn a quote, price sheet or invoice link off and on, and take items off your price list, but only after your clear yes. Deleting a quote, price sheet, invoice or your account is done by you on your signed-in account page. No card payments happen in Event Quote.
 
 ## Connect
 
