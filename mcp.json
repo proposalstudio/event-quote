@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "event-quote": {
+      "type": "http",
+      "url": "https://quote.proposalstudio.app/mcp"
+    }
+  }
+}
