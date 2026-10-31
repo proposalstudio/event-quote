@@ -22,7 +22,7 @@ Your name is on top. Pick a look: 25 in all. 4 are free (Card Stock, Grid Signal
 
 A quote stays with its client. Your assistant can fix a typo in the name. A different person gets a new quote, so the first client's link keeps showing their own quote.
 
-It never sends or charges anything, and it never deletes your quotes, price sheets, invoices or account. You send the link. It can record or remove payments on an invoice, turn a quote, price sheet or invoice link off and on, and take items off your price list, but only after your clear yes. Deleting a quote, price sheet, invoice or your account is done by you on your signed-in account page. No card payments happen in Event Quote.
+It never sends, charges or refunds anything, and it never deletes your quotes, price sheets, invoices or account. You send the link. It can record or remove payments on an invoice, turn a quote, price sheet or invoice link off and on, and take items off your price list, but only after your clear yes. Deleting a quote, price sheet, invoice or your account is done by you on your signed-in account page. On Pro you can connect your own Stripe account (your assistant gives you the link, and you fill in Stripe's own forms), and your invoices then show a Pay button so clients can pay by card, straight into your Stripe. Event Quote never holds the money and takes no cut. Your assistant can turn the Pay button off and on after your clear yes, but it cannot charge anyone, make a payment link, refund anyone or move money; refunds and disputes happen in your own Stripe dashboard.
 
 ## Connect
 
