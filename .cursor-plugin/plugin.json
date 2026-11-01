@@ -1,0 +1,14 @@
+{
+  "name": "event-quote",
+  "version": "1.0.0",
+  "description": "Turns what you tell your assistant into a priced quote with your name on top. Save your prices once, then get a link you can send to your client. Also builds a price sheet link for venues and planners. Free to start.",
+  "author": {
+    "name": "Proposal Studio",
+    "email": "support@proposalstudio.app"
+  },
+  "homepage": "https://quote.proposalstudio.app",
+  "repository": "https://github.com/proposalstudio/event-quote",
+  "license": "MIT",
+  "keywords": ["quotes", "invoices", "price list", "small business", "events"],
+  "logo": "assets/logo.png"
+}
